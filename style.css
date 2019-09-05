@@ -7,5 +7,5 @@ body {
 }
 
 .lyrics {
-	display: none;
+	visibility: hidden;
 }
